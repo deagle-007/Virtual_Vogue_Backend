@@ -2,9 +2,10 @@
 
 ## 📄 Project Report
 
-[**View / Download Virtual Vogue Backend Report (PDF)**](Virtual_Vogue_Report.pdf)
+[**View / Download Virtual Vogue Backend Report (PDF)**](./Virtual_Vogue_Report.pdf)
 
 ## 🎥 Project Demonstration Video
 
 [**▶ Watch Virtual Vogue Project Demo**](https://drive.google.com/file/d/1iMQTYxIjl3142aLnt8wCIySXtq5ry_7Q/view?usp=sharing)
 
+---
